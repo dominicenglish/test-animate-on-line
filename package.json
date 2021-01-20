@@ -3,7 +3,7 @@
     "@svgdotjs/svg.js": "^3.0.16",
     "@vue/cli": "^4.1.2",
     "global": "^4.4.0",
-    "gsap": "^3.1.1"
+    "gsap": "^3.6.0"
   },
   "devDependencies": {
     "stylus": "^0.54.7",
